@@ -1,0 +1,7 @@
+C:\Project\UpdateElement\bin\Debug\UpdateElement.exe.config
+C:\Project\UpdateElement\bin\Debug\UpdateElement.exe
+C:\Project\UpdateElement\bin\Debug\UpdateElement.pdb
+C:\Project\UpdateElement\obj\Debug\UpdateElement.csproj.AssemblyReference.cache
+C:\Project\UpdateElement\obj\Debug\UpdateElement.csproj.CoreCompileInputs.cache
+C:\Project\UpdateElement\obj\Debug\UpdateElement.exe
+C:\Project\UpdateElement\obj\Debug\UpdateElement.pdb

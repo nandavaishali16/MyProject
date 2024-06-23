@@ -1,0 +1,7 @@
+C:\Project\InsetElement\bin\Debug\InsetElement.exe.config
+C:\Project\InsetElement\bin\Debug\InsetElement.exe
+C:\Project\InsetElement\bin\Debug\InsetElement.pdb
+C:\Project\InsetElement\obj\Debug\InsetElement.csproj.AssemblyReference.cache
+C:\Project\InsetElement\obj\Debug\InsetElement.csproj.CoreCompileInputs.cache
+C:\Project\InsetElement\obj\Debug\InsetElement.exe
+C:\Project\InsetElement\obj\Debug\InsetElement.pdb

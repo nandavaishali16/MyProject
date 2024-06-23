@@ -1,0 +1,7 @@
+C:\Project\ConsoleApp48\bin\Debug\ConsoleApp48.exe.config
+C:\Project\ConsoleApp48\bin\Debug\ConsoleApp48.exe
+C:\Project\ConsoleApp48\bin\Debug\ConsoleApp48.pdb
+C:\Project\ConsoleApp48\obj\Debug\ConsoleApp48.csproj.AssemblyReference.cache
+C:\Project\ConsoleApp48\obj\Debug\ConsoleApp48.csproj.CoreCompileInputs.cache
+C:\Project\ConsoleApp48\obj\Debug\ConsoleApp48.exe
+C:\Project\ConsoleApp48\obj\Debug\ConsoleApp48.pdb

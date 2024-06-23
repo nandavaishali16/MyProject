@@ -1,0 +1,14 @@
+C:\VS Code\OrderSystem\bin\Debug\net8.0\OrderSystem.exe
+C:\VS Code\OrderSystem\bin\Debug\net8.0\OrderSystem.deps.json
+C:\VS Code\OrderSystem\bin\Debug\net8.0\OrderSystem.runtimeconfig.json
+C:\VS Code\OrderSystem\bin\Debug\net8.0\OrderSystem.dll
+C:\VS Code\OrderSystem\bin\Debug\net8.0\OrderSystem.pdb
+C:\VS Code\OrderSystem\obj\Debug\net8.0\OrderSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS Code\OrderSystem\obj\Debug\net8.0\OrderSystem.AssemblyInfoInputs.cache
+C:\VS Code\OrderSystem\obj\Debug\net8.0\OrderSystem.AssemblyInfo.cs
+C:\VS Code\OrderSystem\obj\Debug\net8.0\OrderSystem.csproj.CoreCompileInputs.cache
+C:\VS Code\OrderSystem\obj\Debug\net8.0\OrderSystem.dll
+C:\VS Code\OrderSystem\obj\Debug\net8.0\refint\OrderSystem.dll
+C:\VS Code\OrderSystem\obj\Debug\net8.0\OrderSystem.pdb
+C:\VS Code\OrderSystem\obj\Debug\net8.0\OrderSystem.genruntimeconfig.cache
+C:\VS Code\OrderSystem\obj\Debug\net8.0\ref\OrderSystem.dll

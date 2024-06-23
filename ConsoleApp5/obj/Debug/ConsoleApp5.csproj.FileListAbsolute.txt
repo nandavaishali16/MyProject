@@ -1,0 +1,7 @@
+C:\Project\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Project\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Project\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Project\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Project\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Project\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Project\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
